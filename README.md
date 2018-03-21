@@ -1,5 +1,7 @@
 # Lime
 
+[![Join the chat at https://gitter.im/lime-macro/lime](https://badges.gitter.im/lime-macro/lime.svg)](https://gitter.im/lime-macro/lime?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <p align="center">
   <a href="https://lime-lang.xyz/">
     <img src="https://github.com/lime-macro/lime-lang.xyz/blob/master/img/lime.png?raw=true" alt="" width=72 height=72>
