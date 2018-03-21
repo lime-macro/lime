@@ -14,31 +14,31 @@
     <br>
     <br>
       <a href="https://travis-ci.org/lime-macro/lime/">
-        <img src="https://img.shields.io/travis/lime-macro/lime.svg" alt="travis">
+        <img src="https://img.shields.io/travis/lime-macro/lime.svg?style=flat-square" alt="travis">
       </a>
     ·
       <a href="https://rubygems.org/gems/limem/">
-        <img src="https://img.shields.io/gem/v/limem.svg" alt="rubygems">
+        <img src="https://img.shields.io/gem/v/limem.svg?style=flat-square" alt="rubygems">
       </a>
     ·
       <a href="https://gitter.im/lime-macro/lime">
-        <img src="https://img.shields.io/gitter/room/lime-macro/lime.svg" alt="chat-on-gitter">
+        <img src="https://img.shields.io/gitter/room/lime-macro/lime.svg?style=flat-square" alt="chat-on-gitter">
       </a>
     ·
       <a href="https://beta.gemnasium.com/projects/github.com/lime-macro/lime">
-        <img src="https://img.shields.io/gemnasium/lime-macro/lime.svg" alt="dependencies">
+        <img src="https://img.shields.io/gemnasium/lime-macro/lime.svg?style=flat-square" alt="dependencies">
       </a>
     ·
-      <a href="https://codeclimate.com/github/lime-macro/lime/coverage">
-        <img src="https://img.shields.io/codeclimate/coverage/github/lime-macro/lime.svg" alt="coverage">
+      <a href="https://codecov.io/gh/lime-macro/lime">
+        <img src="https://img.shields.io/codecov/c/github/lime-macro/lime.svg?style=flat-square" alt="coverage">
       </a>
     ·
       <a href="https://www.gnu.org/licenses/agpl-3.0.html">
-        <img src="https://img.shields.io/github/license/lime-macro/lime.svg" alt="license">
+        <img src="https://img.shields.io/github/license/lime-macro/lime.svg?style=flat-square" alt="license">
       </a>
     ·
       <a href="https://github.com/lime-macro/lime/pulse">
-        <img src="https://img.shields.io/github/languages/code-size/lime-macro/lime.svg" alt="codesize">
+        <img src="https://img.shields.io/github/languages/code-size/lime-macro/lime.svg?style=flat-square" alt="codesize">
       </a>
   </p>
 </p>
