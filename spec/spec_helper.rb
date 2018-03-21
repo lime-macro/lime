@@ -12,3 +12,9 @@ RSpec.configure do |config|
     c.syntax = :expect
   end
 end
+
+require 'simplecov'
+SimpleCov.start
+
+require 'codecov'
+SimpleCov.formatter = SimpleCov::Formatter::Codecov
