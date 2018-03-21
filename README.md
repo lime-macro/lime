@@ -8,7 +8,7 @@
   <h3 align="center">Lime</h3>
 
   <p align="center">
-    <a href="https://lime-lang.xyz/">Lime</a> is a tiny object-oriented macro programming language on <strong>Ruby\JVM\etc.</strong>
+    <a href="https://lime-lang.xyz/">Lime</a> is a tiny object-oriented macro programming language on <strong>Ruby/JVM/etc.</strong>
     <br>
     <a href="https://lime-lang.xyz/apis/"><strong>Explore Lime API docs »</strong></a>
     <br>
