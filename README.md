@@ -25,8 +25,8 @@
         <img src="https://img.shields.io/gitter/room/lime-macro/lime.svg" alt="chat-on-gitter">
       </a>
     ·
-      <a href="https://requires.io/github/lime-macro/lime">
-        <img src="https://img.shields.io/requires/github/lime-macro/lime.svg" alt="dependencies">
+      <a href="https://beta.gemnasium.com/projects/github.com/lime-macro/lime">
+        <img src="https://img.shields.io/gemnasium/lime-macro/lime.svg" alt="dependencies">
       </a>
     ·
       <a href="https://codeclimate.com/github/lime-macro/lime/coverage">
