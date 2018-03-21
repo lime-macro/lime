@@ -1,11 +1,10 @@
-
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'lime/version'
+require 'limem/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'limem'
-  spec.version       = Lime::VERSION
+  spec.version       = Limem::VERSION
   spec.authors       = ['duangsuse']
   spec.email         = ['fedora-opensuse@outlook.com']
 

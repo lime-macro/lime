@@ -8,7 +8,7 @@
   <h3 align="center">Lime</h3>
 
   <p align="center">
-    [Lime](https://lime-lang.xyz/) is a tiny object-oriented macro programming language on `Ruby\JVM\etc.`
+    <a href="https://lime-lang.xyz/">Lime</a> is a tiny object-oriented macro programming language on <strong>Ruby\JVM\etc.</strong>
     <br>
     <a href="https://lime-lang.xyz/apis/"><strong>Explore Lime API docs »</strong></a>
     <br>
@@ -112,12 +112,29 @@ __It looks like this:__
   (ensure (exit)))
 ```
 
+```scheme
+(def ^# (args=() body)
+  (. macro args body))
+
+(# (puts))
+
+(class std::Number
+  (def add (other)
+    (args.other.+ self)))
+
+(-> += (# (var val)
+  (~> args.^.var (+ var val))))
+
+(def ^print_really (*args) (print args))
+(print_really hello, world!!!!) ;-> hello, world!!!
+```
+
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'lime'
+gem 'limem'
 ```
 
 And then execute:
@@ -126,15 +143,15 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install lime
+    $ gem install limem
 
 ## Usage
 
 __Quick start:__
 
 ```ruby
-require 'lime/engine'
-engine = Lime::Engine.new
+require 'limem/engine'
+engine = Limem::Engine.new
 engine.macro(:fortune) do |body, saying|
   puts "#{body}: #{saying}"
 end
